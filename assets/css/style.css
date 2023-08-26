@@ -1,0 +1,46 @@
+head, body {
+    font-family: 'Roboto';
+ 
+}
+.destacado{
+    font-weight: bold;
+}
+
+.encabezado {
+    background-image: url(../img/arbol2.jpg);
+    background-size: cover;
+    height: 250px;
+}
+.separador{
+    background-color:seagreen;
+    text-align: center;
+    padding: 5px;
+}
+.identificacion{
+    color: azure;
+    text-indent: 5%;
+    padding-top: 5%;
+}
+.estudios{
+    display: flex;
+
+}
+
+.caja{
+    width: 40%;
+    text-align: justify;
+    align-content: center;
+    padding: 15px;
+}
+
+  
+  .carousel-inner {
+    max-height: 500px; /* Ajusta la altura máxima del carrusel */
+  }
+  
+  .carousel-item img {
+    max-width: 100%; /* Asegura que las imágenes se ajusten al contenedor */
+    align-items: center;
+    height: auto; /* Mantiene la proporción de aspecto */
+  }
+  
