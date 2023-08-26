@@ -9,7 +9,7 @@ head, body {
 .encabezado {
     background-image: url(../img/arbol2.jpg);
     background-size: cover;
-    height: 250px;
+    height: 350px;
 }
 .separador{
     background-color:seagreen;
