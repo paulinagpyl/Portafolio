@@ -33,14 +33,13 @@ head, body {
     padding: 15px;
 }
 
-  
-  .carousel-inner {
+.carousel-inner {
     max-height: 500px; /* Ajusta la altura máxima del carrusel */
-  }
+}
   
-  .carousel-item img {
+.carousel-item img {
     max-width: 100%; /* Asegura que las imágenes se ajusten al contenedor */
     align-items: center;
     height: auto; /* Mantiene la proporción de aspecto */
-  }
+}
   
