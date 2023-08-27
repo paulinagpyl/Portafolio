@@ -43,4 +43,12 @@ head, body {
     align-items: center;
     height: auto; /* Mantiene la proporción de aspecto */
   }
+
+  h5 {
+    font-weight:bolder;
+  }
+
+  .enlaces a {
+    color: azure;
+  }
   
